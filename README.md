@@ -29,17 +29,18 @@ I’m here to share my assignments, projects, and overall coding experience with
 ![Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/khan-muhammad-52977b290/)
-- [Email](mailto:khanmuhammad.bsaif22@iba-suk.edu.pk)
-- [Instagram](https://www.instagram.com/khanmmusic/)
+- [LinkedIn](https://www.linkedin.com/in/khan-muhammad-52977b290/) ![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+- [Email](mailto:khanmuhammad.bsaif22@iba-suk.edu.pk) ![Email Logo](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)
+- [Instagram](https://www.instagram.com/khanmmusic/) ![Instagram Logo](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)
 
 ## 🎤 Fun Facts
 - I’m also passionate about music! I’ve been making my own music for 4 years.
 - **Check Out My Music**:
-  - [Website](https://bit.ly/khanm-web)
-  - [Debut Album](https://bit.ly/khanm-sl)
-  - [YouTube Channel](https://bit.ly/khanm-sl)
-  - [Spotify](https://bit.ly/khanm_spotify)
+  - [Website](https://bit.ly/khanm-web) ![Website Logo](https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white)
+  - [Debut Album](https://bit.ly/khanm-sl) ![Album Logo](https://img.shields.io/badge/-Album-000000?style=flat&logo=music&logoColor=white)
+  - [YouTube Channel](https://bit.ly/khanm-sl) ![YouTube Logo](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)
+  - [Spotify](https://bit.ly/khanm_spotify) ![Spotify Logo](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
+
 
 ---
 
