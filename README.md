@@ -7,16 +7,19 @@ I’m here to share my assignments, projects, and overall coding experience with
 
 ## 🛠️ Skills
 - **Programming Languages**:
-  ![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java&logoColor=white)
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-  ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+  
+  ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
+  ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
+  ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
+  ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+  ![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)
+  ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+  ![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
 - **IDEs**:
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-  ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+  
+  ![Visual Studio](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
+  ![IntelliJ IDEA](https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000)
+  ![PyCharm](https://img.icons8.com/?size=100&id=B5T4RdBJefjF&format=png&color=000000)
 - **Additional Skills**:
   ![FL Studio](https://img.shields.io/badge/-FL%20Studio-F9D35B?style=flat&logo=fl-studio&logoColor=black)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
