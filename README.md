@@ -8,18 +8,18 @@ I’m here to share my assignments, projects, and overall coding experience with
 ## 🛠️ Skills
 - **Programming Languages**:
   
-  ![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-  ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
-  ![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-  ![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-  ![Kotlin](https://img.icons8.com/?size=100&id=ZoxjA0jZDdFZ&format=png&color=000000)
-  ![HTML](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
-  ![CSS](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
+  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
+  ![C++](https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000)
+  ![Python](https://img.icons8.com/?size=70&id=13441&format=png&color=000000)
+  ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
+  ![Kotlin](https://img.icons8.com/?size=70&id=ZoxjA0jZDdFZ&format=png&color=000000)
+  ![HTML](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
+  ![CSS](https://img.icons8.com/?size=70&id=7gdY5qNXaKC0&format=png&color=000000)
 - **IDEs**:
   
-  ![Visual Studio](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
-  ![IntelliJ IDEA](https://img.icons8.com/?size=100&id=w1Gq29w4RQWL&format=png&color=000000)
-  ![PyCharm](https://img.icons8.com/?size=100&id=B5T4RdBJefjF&format=png&color=000000)
+  ![Visual Studio](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
+  ![IntelliJ IDEA](https://img.icons8.com/?size=50&id=w1Gq29w4RQWL&format=png&color=000000)
+  ![PyCharm](https://img.icons8.com/?size=50&id=B5T4RdBJefjF&format=png&color=000000)
 - **Additional Skills**:
   ![FL Studio](https://img.shields.io/badge/-FL%20Studio-F9D35B?style=flat&logo=fl-studio&logoColor=black)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
