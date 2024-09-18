@@ -26,10 +26,9 @@ I’m here to share my assignments, projects, and overall coding experience with
   ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
 
 
-  
 
-## 📈 GitHub Stats
-![Khan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanm&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/khan-muhammad-52977b290/) ![LinkedIn Logo](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
