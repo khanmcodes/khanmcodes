@@ -21,6 +21,7 @@ I’m here to share my assignments, projects, and overall coding experience with
   ![IntelliJ IDEA](https://img.icons8.com/?size=50&id=w1Gq29w4RQWL&format=png&color=000000)
   ![PyCharm](https://img.icons8.com/?size=50&id=B5T4RdBJefjF&format=png&color=000000)
 - **Additional Skills**:
+  
   ![FL Studio](https://img.shields.io/badge/-FL%20Studio-F9D35B?style=flat&logo=fl-studio&logoColor=black)
   ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
   ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
