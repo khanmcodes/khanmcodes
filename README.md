@@ -7,11 +7,12 @@ I’m here to share my assignments, projects, and overall coding experience with
 
 ## 🛠️ Skills
 - **Programming Languages**:
-  
+
+  ![React](https://img.icons8.com/?size=70&id=asWSSTBrDlTW&format=png&color=000000)
   ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
   ![C++](https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000)
-  ![Python](https://img.icons8.com/?size=70&id=13441&format=png&color=000000)
   ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
+  ![Python](https://img.icons8.com/?size=70&id=13441&format=png&color=000000)
   ![Kotlin](https://img.icons8.com/?size=70&id=ZoxjA0jZDdFZ&format=png&color=000000)
   ![HTML](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
   ![CSS](https://img.icons8.com/?size=70&id=7gdY5qNXaKC0&format=png&color=000000)
