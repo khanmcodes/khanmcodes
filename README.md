@@ -1,9 +1,9 @@
-# Hi there, I'm Khan Muhammad 👋
+# Hi, I'm Khan Muhammad 👋
 
 I'm a Computer Science student at [IBA University](https://www.iba-suk.edu.pk), specializing in AI. I’ve been passionate about coding since I was in grade 8, and I love diving into new challenges and technologies.
 
 ## 👨‍🚀 What am I doing on GitHub?
-I’m here to share my assignments, projects, and overall coding experience with the world. Feel free to explore them to get a sense of my skills and what I’ve been working on!
+I’m here to share my coding projects, designs, case studies and overall coding experience with the world. Feel free to explore them to get a sense of my skills and what I’ve been working on!
 
 ## 🛠️ Skills
 - **Programming Languages**:
@@ -43,7 +43,7 @@ I’m here to share my assignments, projects, and overall coding experience with
 - [Instagram](https://www.instagram.com/khanmmusic/)
 
 ## 🎤 Fun Facts
-- I’m also passionate about music! I’ve been making my own music for 4 years.
+- I think I sing alright..
   
   **Check Out My Music**:
   - [Website](https://khanm.vercel.app)
