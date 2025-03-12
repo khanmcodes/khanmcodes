@@ -21,6 +21,7 @@ I’m here to share my coding projects, designs, case studies and overall coding
 
   ![Figma](https://img.icons8.com/?size=70&id=zfHRZ6i1Wg0U&format=png&color=000000)
   ![Framer](https://img.icons8.com/?size=70&id=G7NMjcZM9R01&format=png&color=000000)
+  ![Framer](https://img.icons8.com/?size=70&id=iWw83PVcBpLw&format=png&color=000000)
 
 - **IDEs**:
   
