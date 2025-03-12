@@ -6,11 +6,12 @@ I'm a Computer Science student at [IBA University](https://www.iba-suk.edu.pk), 
 I’m here to share my coding projects, designs, case studies and overall coding experience with the world. Feel free to explore them to get a sense of my skills and what I’ve been working on!
 
 ## 🛠️ Skills
-- **Programming Languages**:
+- **Programming Languages | Frameworks**:
 
   ![React](https://img.icons8.com/?size=70&id=asWSSTBrDlTW&format=png&color=000000)
-  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
   ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
+  ![TypeScript](https://img.icons8.com/?size=70&id=wpZmKzk11AzJ&format=png&color=000000)
+  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
   ![HTML](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
   ![CSS](https://img.icons8.com/?size=70&id=7gdY5qNXaKC0&format=png&color=000000)
   ![C++](https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000)
