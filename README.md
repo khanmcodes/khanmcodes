@@ -9,11 +9,13 @@ I’m here to share my coding projects, designs, case studies and overall coding
 - **Programming Languages | Frameworks**:
 
   ![React](https://img.icons8.com/?size=70&id=asWSSTBrDlTW&format=png&color=000000)
+  ![React Native](https://img.icons8.com/?size=70&id=58811&format=png&color=33B1F0)
   ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
   ![TypeScript](https://img.icons8.com/?size=70&id=wpZmKzk11AzJ&format=png&color=000000)
-  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
   ![HTML](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
   ![CSS](https://img.icons8.com/?size=70&id=7gdY5qNXaKC0&format=png&color=000000)
+  ![Tailwindcss](https://img.icons8.com/?size=70&id=CIAZz2CYc6Kc&format=png&color=000000)
+  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
   ![C++](https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000)
   ![Python](https://img.icons8.com/?size=70&id=13441&format=png&color=000000)
 
@@ -21,18 +23,18 @@ I’m here to share my coding projects, designs, case studies and overall coding
 
   ![Figma](https://img.icons8.com/?size=70&id=zfHRZ6i1Wg0U&format=png&color=000000)
   ![Framer](https://img.icons8.com/?size=70&id=G7NMjcZM9R01&format=png&color=000000)
-  ![Framer](https://img.icons8.com/?size=70&id=iWw83PVcBpLw&format=png&color=000000)
+  ![Canva](https://img.icons8.com/?size=70&id=iWw83PVcBpLw&format=png&color=000000)
+  ![Affinity Designer](https://img.icons8.com/?size=70&id=TOclkP1ajlVB&format=png&color=000000)
 
 - **IDEs**:
   
   ![Visual Studio](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)
-  ![IntelliJ IDEA](https://img.icons8.com/?size=50&id=w1Gq29w4RQWL&format=png&color=000000)
-  ![PyCharm](https://img.icons8.com/?size=50&id=B5T4RdBJefjF&format=png&color=000000)
+  ![Cursor AI](https://img.icons8.com/?size=50&id=Kwms9QBiZhG2&format=png&color=000000)
 - **Additional Skills**:
   
-  ![FL Studio](https://img.shields.io/badge/-FL%20Studio-F9D35B?style=flat&logo=fl-studio&logoColor=black)
-  ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobe-premiere-pro&logoColor=white)
-  ![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white)
+  ![FL Studio](https://img.icons8.com/?size=50&id=IDLlkG5VGOjL&format=png&color=000000)
+  ![Premiere Pro](https://img.icons8.com/?size=50&id=111594&format=png&color=000000)
+  ![Adobe Lightroom](https://img.icons8.com/?size=50&id=16401&format=png&color=000000)
 
 
 
