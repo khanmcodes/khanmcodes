@@ -32,9 +32,9 @@ I’m here to share my coding projects, designs, case studies and overall coding
   ![Cursor AI](https://img.icons8.com/?size=50&id=Kwms9QBiZhG2&format=png&color=000000)
 - **Additional Skills**:
   
-  ![FL Studio](https://img.icons8.com/?size=50&id=IDLlkG5VGOjL&format=png&color=000000)
-  ![Premiere Pro](https://img.icons8.com/?size=50&id=111594&format=png&color=000000)
-  ![Adobe Lightroom](https://img.icons8.com/?size=50&id=16401&format=png&color=000000)
+  ![FL Studio](https://img.icons8.com/?size=50&id=IDLlkG5VGOjL&format=png&color=FFFFFF)
+  ![Premiere Pro](https://img.icons8.com/?size=50&id=111594&format=png&color=FFFFFF)
+  ![Adobe Lightroom](https://img.icons8.com/?size=50&id=16401&format=png&color=FFFFFF)
 
 
 
