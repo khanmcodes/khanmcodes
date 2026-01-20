@@ -9,20 +9,20 @@ I'm a Computer Science student at [IBA University](https://www.iba-suk.edu.pk), 
 
 **I code in**
 
-  ![React](https://img.icons8.com/?size=70&id=asWSSTBrDlTW&format=png&color=000000)
-  ![React Native](https://img.icons8.com/?size=70&id=58811&format=png&color=33B1F0)
-  ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
-  ![HTML](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
-  ![CSS](https://img.icons8.com/?size=70&id=7gdY5qNXaKC0&format=png&color=000000)
-  ![Java](https://img.icons8.com/?size=70&id=13679&format=png&color=000000)
-  ![C++](https://img.icons8.com/?size=70&id=TpULddJc4gTh&format=png&color=000000)
-  ![Python](https://img.icons8.com/?size=70&id=13441&format=png&color=000000)
-  ![Tailwindcss](https://img.icons8.com/?size=70&id=CIAZz2CYc6Kc&format=png&color=000000)
+  ![React](https://img.icons8.com/?size=60&id=asWSSTBrDlTW&format=png&color=000000)
+  ![React Native](https://img.icons8.com/?size=60&id=58811&format=png&color=33B1F0)
+  ![Nextjs](https://img.icons8.com/?size=60&id=MWiBjkuHeMVq&format=png&color=000000)
+  ![JavaScript](https://img.icons8.com/?size=60&id=108784&format=png&color=000000)
+  ![Flutter](https://img.icons8.com/?size=60&id=7I3BjCqe9rjG&format=png&color=000000)
+  ![HTML](https://img.icons8.com/?size=60&id=20909&format=png&color=000000)
+  ![CSS](https://img.icons8.com/?size=60&id=7gdY5qNXaKC0&format=png&color=000000)
+  ![Java](https://img.icons8.com/?size=60&id=13679&format=png&color=000000)
+  ![C++](https://img.icons8.com/?size=60&id=TpULddJc4gTh&format=png&color=000000)
+  ![Tailwindcss](https://img.icons8.com/?size=60&id=CIAZz2CYc6Kc&format=png&color=000000)
 
 **I Design in**
 
   ![Figma](https://img.icons8.com/?size=70&id=zfHRZ6i1Wg0U&format=png&color=000000)
-  ![Framer](https://img.icons8.com/?size=70&id=G7NMjcZM9R01&format=png&color=000000)
   ![Canva](https://img.icons8.com/?size=70&id=iWw83PVcBpLw&format=png&color=000000)
   ![Affinity Designer](https://img.icons8.com/?size=70&id=TOclkP1ajlVB&format=png&color=000000)
 
