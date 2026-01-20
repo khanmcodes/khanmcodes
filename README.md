@@ -22,9 +22,9 @@ I'm a Computer Science student at [IBA University](https://www.iba-suk.edu.pk), 
 
 **I Design in**
 
-  ![Figma](https://img.icons8.com/?size=70&id=zfHRZ6i1Wg0U&format=png&color=000000)
-  ![Canva](https://img.icons8.com/?size=70&id=iWw83PVcBpLw&format=png&color=000000)
-  ![Affinity Designer](https://img.icons8.com/?size=70&id=TOclkP1ajlVB&format=png&color=000000)
+  ![Figma](https://img.icons8.com/?size=50&id=zfHRZ6i1Wg0U&format=png&color=000000)
+  ![Canva](https://img.icons8.com/?size=50&id=iWw83PVcBpLw&format=png&color=000000)
+  ![Affinity Designer](https://img.icons8.com/?size=50&id=TOclkP1ajlVB&format=png&color=000000)
 
 
 **I also use**
